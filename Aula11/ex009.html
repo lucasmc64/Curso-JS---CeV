@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Estrangeiro?</title>
+</head>
+<body>
+    <h1>Conterrâneo ou não?</h1>
+    <input type="text" id="txtpais">
+    <input type="button" value="Verificar" onclick="numsei()">
+    <script>
+        function numsei(){
+            var pais = window.document.querySelector("input#txtpais")
+            var p = pais.value
+            if(p == 'Brasil'){
+                window.document.write("Você é brasileiro!")
+            }else{
+                window.document.write("Estrangeiro burguês do carai...")
+            }
+        }
+    </script>
+</body>
+</html>

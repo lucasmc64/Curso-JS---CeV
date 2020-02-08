@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tabuada</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body onload="iniciar()">
+    <header>
+        <h1>Tabuada</h1>
+    </header>
+    <section id="corpo">
+        <div>
+            <p id="numero">Número: <input type="number" name="txtnum" id="txtnum">
+                <input type="button" value="Gerar Tabuada" onclick="gerar()" style="border-radius: 10px; background: rgb(49, 49, 255); border: 0px; color: white;"></p>
+        </div>
+        <div>
+            <select name="lista" id="lista" multiple size="11">
+                
+            </select>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; MarçalEntertainment</p> 
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
