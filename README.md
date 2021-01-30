@@ -8,7 +8,7 @@
 
 CeV is a project designed by Professor Gustavo Guanabara with the aim of bringing quality education to anyone who has access to the internet.
 
-[Site](https://www.cursoemvideo.com/) | [YouTube Channel](https://www.youtube.com/user/cursosemvideo)
+[Website](https://www.cursoemvideo.com/) | [YouTube Channel](https://www.youtube.com/user/cursosemvideo)
 
 ## Goal :dart:
 
