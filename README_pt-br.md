@@ -1,3 +1,5 @@
+![Que horas são com JS](readme-images/hours.png)
+
 # Curso de JavaScript :man_technologist:
 
 > :us: If you prefer to read in another language, this README was also written in english. Click [HERE](/README.md) to access.

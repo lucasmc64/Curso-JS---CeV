@@ -1,3 +1,5 @@
+
+![What's time is it with JS](readme-images/hours.png)
 # JavaScript Course :man_technologist:
 
 > :brazil: Caso prefira ler em outra língua, esse README foi escrito também em português. Clique [AQUI](/README_pt-br.md) para acessar.
