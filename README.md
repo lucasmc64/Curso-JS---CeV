@@ -4,7 +4,7 @@
 
 > :brazil: Caso prefira ler em outra língua, esse README foi escrito também em português. Clique [AQUI](/README_pt-br.md) para acessar.
 
-## What is "Curso em Vídeo"? ​:play_or_pause_button:​
+## What is Curso em Vídeo? ​:play_or_pause_button:​
 
 CeV is a project designed by Professor Gustavo Guanabara with the aim of bringing quality education to anyone who has access to the internet.
 
