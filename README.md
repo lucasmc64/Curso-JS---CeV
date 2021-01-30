@@ -24,7 +24,7 @@ These different small projects aim to exemplify and practice the basics of JavaS
 
 It is a basic course, but it is still complete given its target audience. Professor Gustavo Guanabara has great teaching skills and the course is available for free on the internet.
 
-[Course on Youtube](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | [Course on Site](https://www.cursoemvideo.com/course/javascript/)
+[Course on Youtube](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | [Course on Website](https://www.cursoemvideo.com/course/javascript/)
 
 ## How do I run the project on my machine? :thinking:
 
