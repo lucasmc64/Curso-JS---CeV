@@ -1,8 +1,6 @@
 
-![What's time is it with JS](readme-images/hours.png)
+![What's time is it with JS](readme-images/cover.png)
 # JavaScript Course :man_technologist:
-
-> :brazil: Caso prefira ler em outra língua, esse README foi escrito também em português. Clique [AQUI](/README_pt-br.md) para acessar.
 
 ## What is Curso em Vídeo? ​:play_or_pause_button:​
 
@@ -18,7 +16,7 @@ These different small projects aim to exemplify and practice the basics of JavaS
 
 ### About the project :desktop_computer:
 
-* The front end is made with HTML5, CSS3 and JavaScript.
+- The front-end is made with HTML5, CSS3 and JavaScript.
 
 ### About the course :book:
 
@@ -36,8 +34,8 @@ The first step is to clone the project, either via terminal or GitHub Desktop, o
 >
 > However, to run some JavaScript files individually we need some tools.
 
-* [Node.JS](https://nodejs.org/) (or [Yarn](https://yarnpkg.com/))  installed.
-* [VSCode](https://code.visualstudio.com/) and the extension [Node.js Exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node) installed.
+- [Node.JS](https://nodejs.org/).
+- [VSCode](https://code.visualstudio.com/) and the extension [Node.js Exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node).
 
 ### Running the JS files :sparkles:
 
@@ -46,3 +44,11 @@ Open the project folder in VSCode and, by right-clicking on the file with extens
 ## If everything went well... :tada:
 
 Now you are running the project beautifully!
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
+
+---
+
+Made with :yellow_heart: by Lucas Coutinho :wave: [Get in touch!](https://www.linkedin.com/in/lucasmc64/)
